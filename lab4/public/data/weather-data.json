@@ -1,0 +1,269 @@
+{
+    "CityA": {
+      "2024-02-06": {
+        "Temperature": 25.4,
+        "Humidity": 30,
+        "Weather": "Cloudy",
+        "Wind": {
+          "Speed": 40.7,
+          "Direction": "North"
+        }
+      }
+      "2024-02-05": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+        }
+        "2024-02-04": {
+          "Temperature": 19.2,
+          "Humidity": 60,
+          "Weather": "Rainy",
+          "Wind": {
+            "Speed": 33.2,
+            "Direction": "West"
+      },
+      "2024-02-03": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-02-02": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-02-01": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-31": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-30": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-29": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-28": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-27": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-26": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-25": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-24": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-23": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-22": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-21": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-20": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-19": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-18": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-17": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-16": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-15": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-14": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-13": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-12": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+      "2024-01-11": {
+        "Temperature": 19.2,
+        "Humidity": 60,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 33.2,
+          "Direction": "West"
+      },
+
+    
+    }
+    "CityB": {
+      "2024-02-06": {
+        "Temperature": 25.9,
+        "Humidity": 88,
+        "Weather": "Cloudy",
+        "Wind": {
+          "Speed": 67.3,
+          "Direction": "South"
+        }
+      }
+      "2024-02-05": {
+        "Temperature": 19.9,
+        "Humidity": 67,
+        "Weather": "Windy",
+        "Wind": {
+          "Speed": 53.8,
+          "Direction": "West"
+        }
+        
+      }
+     
+    }
+    "CityC": {,
+      "2024-02-06": {
+        "Temperature": 22.2,
+        "Humidity": 56,
+        "Weather": "Rainy",
+        "Wind": {
+          "Speed": 89.0,
+          "Direction": "North"
+        }
+      }
+      "2024-02-05": {
+        "Temperature": 32.0,
+        "Humidity": 38,
+        "Weather": "Cloudy",
+        "Wind": {
+          "Speed": 73.8,
+          "Direction": "East"
+        }
+        
+      }
+      
+    }
+  }
+  
+  

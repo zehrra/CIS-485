@@ -1,0 +1,11 @@
+PatientID,Age,Gender,BMI,BloodPressure,Cholesterol,Diabetes,Smoker,PhysicalActivity,HeartDisease
+1,56,Male,33.1,171,171,Yes,No,2.7,No
+2,45,Female,28.5,125,200,No,Yes,3.5,Yes
+3,62,Male,34.9,140,240,Yes,No,1.5,Yes
+4,34,Female,22.3,110,180,No,No,2.0,No
+5,50,Male,29.8,130,200,Yes,Yes,3.0,Yes
+6,28,Female,25.5,118,190,No,Yes,2.5,Yes
+7,65,Male,31.2,145,210,Yes,No,1.8,Yes
+8,42,Female,27.0,120,180,No,No,2.8,No
+9,55,Male,29.5,135,190,Yes,Yes,2.3,Yes
+10,38,Female,26.8,128,200,No,No,2.5,No
